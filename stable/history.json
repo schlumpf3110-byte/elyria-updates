@@ -1,5 +1,13 @@
 [
   {
+    "version": "227.0.0",
+    "date": "2026-10-02",
+    "notes": "Story im Dungeon (Echos der Hüter, Nachklang und neue Strophen), fünf neue Gegner und eine Verzweiflungsphase für alle Wächter, Tiefentalente mit drei neuen Echo-Fähigkeiten sowie Grafik-Feinschliff in allen fünf Tiefen.",
+    "patch": "Elyria_Patch_V227.zip",
+    "setup": "Elyria_Setup_V227.exe",
+    "sha256": "5f85e46d33c64ac6357059613f016c497eaaa9d92ea7a583893fe89cb16b45d2"
+  },
+  {
     "version": "226.0.0",
     "date": "2026-10-02",
     "notes": "Für den Endgegner gibt es jetzt genau ein exotisches Stück (neue Seltenheit, stärkere Werte, Endboss-Prägung), das sich direkt für den nächsten Lauf anlegen lässt. Der Launcher holt Updates ab jetzt automatisch von GitHub.",
