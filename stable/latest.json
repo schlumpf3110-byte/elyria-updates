@@ -1,8 +1,8 @@
 {
   "product": "elyria-five-depths",
-  "version": "228.0.0",
-  "packageUrl": "Elyria_Patch_V228.zip",
-  "sha256": "e7bf81ea91cd70ef40d9db55155a2ad29989a4f826aaa75fd7c6e9f9ff304ffc",
-  "size": 3231407,
-  "notes": "Neues Bestiarium mit Wissensstufen und Bonusschaden je Gegnerart, 23 Erfolge mit Sonnenmark-Belohnung, schnellere Echo-Texte (Taste N), höchstens zwei neue Kreaturen pro Welle und ein freies Talentfenster."
+  "version": "229.0.0",
+  "packageUrl": "Elyria_Patch_V229.zip",
+  "sha256": "d6672ec278fa673851d811f1c36910a9d0ffdebe62a8376e20af70317e29134d",
+  "size": 3239260,
+  "notes": "Tagesprüfung mit sechs wechselnden Tagesregeln und täglicher Belohnung sowie der Kampf gegen Dagra hinter dem Siegel, sobald alle fünf Tiefen bezwungen sind – mit exotischer Waffe und der achten Strophe."
 }
