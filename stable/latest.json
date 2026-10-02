@@ -1,8 +1,8 @@
 {
   "product": "elyria-five-depths",
-  "version": "227.0.0",
-  "packageUrl": "Elyria_Patch_V227.zip",
-  "sha256": "5f85e46d33c64ac6357059613f016c497eaaa9d92ea7a583893fe89cb16b45d2",
-  "size": 3221766,
-  "notes": "Story im Dungeon (Echos der Hüter, Nachklang und neue Strophen), fünf neue Gegner und eine Verzweiflungsphase für alle Wächter, Tiefentalente mit drei neuen Echo-Fähigkeiten sowie Grafik-Feinschliff in allen fünf Tiefen."
+  "version": "228.0.0",
+  "packageUrl": "Elyria_Patch_V228.zip",
+  "sha256": "e7bf81ea91cd70ef40d9db55155a2ad29989a4f826aaa75fd7c6e9f9ff304ffc",
+  "size": 3231407,
+  "notes": "Neues Bestiarium mit Wissensstufen und Bonusschaden je Gegnerart, 23 Erfolge mit Sonnenmark-Belohnung, schnellere Echo-Texte (Taste N), höchstens zwei neue Kreaturen pro Welle und ein freies Talentfenster."
 }

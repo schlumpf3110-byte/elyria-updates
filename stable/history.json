@@ -1,5 +1,13 @@
 [
   {
+    "version": "228.0.0",
+    "date": "2026-10-02",
+    "notes": "Neues Bestiarium mit Wissensstufen und Bonusschaden je Gegnerart, 23 Erfolge mit Sonnenmark-Belohnung, schnellere Echo-Texte (Taste N), höchstens zwei neue Kreaturen pro Welle und ein freies Talentfenster.",
+    "patch": "Elyria_Patch_V228.zip",
+    "setup": "Elyria_Setup_V228.exe",
+    "sha256": "e7bf81ea91cd70ef40d9db55155a2ad29989a4f826aaa75fd7c6e9f9ff304ffc"
+  },
+  {
     "version": "227.0.0",
     "date": "2026-10-02",
     "notes": "Story im Dungeon (Echos der Hüter, Nachklang und neue Strophen), fünf neue Gegner und eine Verzweiflungsphase für alle Wächter, Tiefentalente mit drei neuen Echo-Fähigkeiten sowie Grafik-Feinschliff in allen fünf Tiefen.",

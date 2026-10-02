@@ -3,13 +3,14 @@
 Dieses Repository verteilt die Spiel-Updates für den Elyria-Launcher. Der Launcher fragt beim Start
 `stable/latest.json` ab und bietet neue Versionen zum Einspielen an (Prüfsumme + Rücksicherung).
 
-## Aktuelle Version: 227.0.0
+## Aktuelle Version: 228.0.0
 
-**Neu installieren:** [Elyria_Setup_V227.exe](https://raw.githubusercontent.com/schlumpf3110-byte/elyria-updates/main/stable/Elyria_Setup_V227.exe)
+**Neu installieren:** [Elyria_Setup_V228.exe](https://raw.githubusercontent.com/schlumpf3110-byte/elyria-updates/main/stable/Elyria_Setup_V228.exe)
 
 > Der Installer ist nicht digital signiert. Windows SmartScreen: „Weitere Informationen“ → „Trotzdem ausführen“.
 
 ## Verlauf
 
+- **228.0.0** (2026-10-02): Neues Bestiarium mit Wissensstufen und Bonusschaden je Gegnerart, 23 Erfolge mit Sonnenmark-Belohnung, schnellere Echo-Texte (Taste N), höchstens zwei neue Kreaturen pro Welle und ein freies Talentfenster.
 - **227.0.0** (2026-10-02): Story im Dungeon (Echos der Hüter, Nachklang und neue Strophen), fünf neue Gegner und eine Verzweiflungsphase für alle Wächter, Tiefentalente mit drei neuen Echo-Fähigkeiten sowie Grafik-Feinschliff in allen fünf Tiefen.
 - **226.0.0** (2026-10-02): Für den Endgegner gibt es jetzt genau ein exotisches Stück (neue Seltenheit, stärkere Werte, Endboss-Prägung), das sich direkt für den nächsten Lauf anlegen lässt. Der Launcher holt Updates ab jetzt automatisch von GitHub.
