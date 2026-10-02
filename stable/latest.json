@@ -1,0 +1,8 @@
+{
+  "product": "elyria-five-depths",
+  "version": "226.0.0",
+  "packageUrl": "Elyria_Patch_V226.zip",
+  "sha256": "23a0d536f87f455bbe88e2978f5488c2eda9c1ae142cd2fabbc5b4a9646f0f89",
+  "size": 3198552,
+  "notes": "Für den Endgegner gibt es jetzt genau ein exotisches Stück (neue Seltenheit, stärkere Werte, Endboss-Prägung), das sich direkt für den nächsten Lauf anlegen lässt. Der Launcher holt Updates ab jetzt automatisch von GitHub."
+}

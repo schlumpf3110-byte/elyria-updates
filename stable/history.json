@@ -1,0 +1,10 @@
+[
+  {
+    "version": "226.0.0",
+    "date": "2026-10-02",
+    "notes": "Für den Endgegner gibt es jetzt genau ein exotisches Stück (neue Seltenheit, stärkere Werte, Endboss-Prägung), das sich direkt für den nächsten Lauf anlegen lässt. Der Launcher holt Updates ab jetzt automatisch von GitHub.",
+    "patch": "Elyria_Patch_V226.zip",
+    "setup": "Elyria_Setup_V226.exe",
+    "sha256": "23a0d536f87f455bbe88e2978f5488c2eda9c1ae142cd2fabbc5b4a9646f0f89"
+  }
+]
