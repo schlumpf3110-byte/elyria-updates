@@ -1,5 +1,13 @@
 [
   {
+    "version": "230.0.0",
+    "date": "2026-10-03",
+    "notes": "Die Liste „Deine Halle“ überdeckt den Trophäenschrank nicht mehr, und die Kampfimpuls-Anzeige erscheint nur noch in Expeditionen.",
+    "patch": "Elyria_Patch_V230.zip",
+    "setup": "Elyria_Setup_V230.exe",
+    "sha256": "09df748ba917ab2c38e52d34281b8be16c319abdf698227d14f01d6102d3d5de"
+  },
+  {
     "version": "229.0.0",
     "date": "2026-10-02",
     "notes": "Tagesprüfung mit sechs wechselnden Tagesregeln und täglicher Belohnung sowie der Kampf gegen Dagra hinter dem Siegel, sobald alle fünf Tiefen bezwungen sind – mit exotischer Waffe und der achten Strophe.",

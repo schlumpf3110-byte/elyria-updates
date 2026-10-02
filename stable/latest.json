@@ -1,8 +1,8 @@
 {
   "product": "elyria-five-depths",
-  "version": "229.0.0",
-  "packageUrl": "Elyria_Patch_V229.zip",
-  "sha256": "d6672ec278fa673851d811f1c36910a9d0ffdebe62a8376e20af70317e29134d",
-  "size": 3239260,
-  "notes": "Tagesprüfung mit sechs wechselnden Tagesregeln und täglicher Belohnung sowie der Kampf gegen Dagra hinter dem Siegel, sobald alle fünf Tiefen bezwungen sind – mit exotischer Waffe und der achten Strophe."
+  "version": "230.0.0",
+  "packageUrl": "Elyria_Patch_V230.zip",
+  "sha256": "09df748ba917ab2c38e52d34281b8be16c319abdf698227d14f01d6102d3d5de",
+  "size": 3239639,
+  "notes": "Die Liste „Deine Halle“ überdeckt den Trophäenschrank nicht mehr, und die Kampfimpuls-Anzeige erscheint nur noch in Expeditionen."
 }
