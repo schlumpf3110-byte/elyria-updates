@@ -1,8 +1,8 @@
 {
   "product": "elyria-five-depths",
-  "version": "236.0.0",
-  "packageUrl": "Elyria_Patch_V236.zip",
-  "sha256": "d7c282826b6efb18eb48b0bc927a881183c8e5ec05cffb33b801101b6d37fce7",
-  "size": 3268644,
-  "notes": "Gefahrenstufen 0-5 je Charakter: stärkere Gegner, höherer Laufertrag, Fortschritt auf den Charakterkarten"
+  "version": "237.0.0",
+  "packageUrl": "Elyria_Patch_V237.zip",
+  "sha256": "96bdb5d0c15664a5d8d439177b5583fb498eced8f9f923221abc9426ceb81ce8",
+  "size": 3271284,
+  "notes": "Waffenfamilien mit 2er/3er-Boni, Lieblingswaffen je Charakter (+20 % Schaden)"
 }

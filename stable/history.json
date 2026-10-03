@@ -1,5 +1,13 @@
 [
   {
+    "version": "237.0.0",
+    "date": "2026-10-03",
+    "notes": "Waffenfamilien mit 2er/3er-Boni, Lieblingswaffen je Charakter (+20 % Schaden)",
+    "patch": "Elyria_Patch_V237.zip",
+    "setup": "Elyria_Setup_V237.exe",
+    "sha256": "96bdb5d0c15664a5d8d439177b5583fb498eced8f9f923221abc9426ceb81ce8"
+  },
+  {
     "version": "236.0.0",
     "date": "2026-10-03",
     "notes": "Gefahrenstufen 0-5 je Charakter: stärkere Gegner, höherer Laufertrag, Fortschritt auf den Charakterkarten",
