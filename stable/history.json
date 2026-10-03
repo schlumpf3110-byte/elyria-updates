@@ -1,5 +1,13 @@
 [
   {
+    "version": "241.0.0",
+    "date": "2026-10-03",
+    "notes": "Beutel in der Halle aufgeräumt: keine leeren Ausrüstungsfelder mehr, Hinweis auf Laufausrüstung",
+    "patch": "Elyria_Patch_V241.zip",
+    "setup": "Elyria_Setup_V241.exe",
+    "sha256": "b5ab53569c0a4cbd0b047a898ab2419f2a27d15ea1c90405bf699545d9ecae1b"
+  },
+  {
     "version": "240.0.0",
     "date": "2026-10-03",
     "notes": "Kompakte Infoleiste im Dungeon, Details beim Halten von TAB",
