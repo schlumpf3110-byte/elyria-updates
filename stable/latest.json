@@ -1,8 +1,8 @@
 {
   "product": "elyria-five-depths",
-  "version": "233.0.0",
-  "packageUrl": "Elyria_Patch_V233.zip",
-  "sha256": "fdf5d9543fda3fb7a57f3862feadb40b204d3624a3fc774a1d2a3c2a2655cad5",
-  "size": 3247040,
-  "notes": "Exotische Sets je Tiefe mit Boni für 2, 3 und 5 Stücke sowie Waffenmeisterschaft für Klinge, Bogen und Stab bis Rang 20."
+  "version": "234.0.0",
+  "packageUrl": "Elyria_Patch_V234.zip",
+  "sha256": "1a4da481fa99c20c0d81b1d71fc069b019dc4ee92ad53624e14baa60cae87823",
+  "size": 3250530,
+  "notes": "Lagerkiste mit 40 Plätzen in der Halle und Echo-Meisterschaft für jede Echo-Fähigkeit. Behebt den Namensverlust von Dagras Splitter nach dem Neuladen."
 }
