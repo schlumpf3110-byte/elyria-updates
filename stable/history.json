@@ -1,5 +1,13 @@
 [
   {
+    "version": "235.0.0",
+    "date": "2026-10-03",
+    "notes": "10 Charaktere mit Stärken und Schwächen, 1 aus 5 Startwaffen, 16 Waffenarten, Ausrüstung pro Lauf, Laufertrag und Brens Werkbank",
+    "patch": "Elyria_Patch_V235.zip",
+    "setup": "Elyria_Setup_V235.exe",
+    "sha256": "2f78a2e94abf8407e9543ed49d223b64bb8738999be32960c07fec7a36e90f9d"
+  },
+  {
     "version": "234.0.0",
     "date": "2026-10-03",
     "notes": "Lagerkiste mit 40 Plätzen in der Halle und Echo-Meisterschaft für jede Echo-Fähigkeit. Behebt den Namensverlust von Dagras Splitter nach dem Neuladen.",
