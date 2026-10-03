@@ -1,8 +1,8 @@
 {
   "product": "elyria-five-depths",
-  "version": "231.0.0",
-  "packageUrl": "Elyria_Patch_V231.zip",
-  "sha256": "2064e6a66c36062e79012b347d929f7babc02324cb32fc7d30c24a8d332e0f9a",
-  "size": 3240162,
-  "notes": "Der Autoschuss schießt jetzt immer in Richtung Mauszeiger, unabhängig von der Laufrichtung. Ohne Maus zielt er weiter auf den nächsten Gegner."
+  "version": "232.0.0",
+  "packageUrl": "Elyria_Patch_V232.zip",
+  "sha256": "83af050760778b646c31b94d10d1eb09546e06e1056bd8529bfea7f27eed04a2",
+  "size": 3242469,
+  "notes": "Kontrollpunkt und Pfadwahl zeigen jetzt klar, dass zuerst eine Verstärkung gewählt werden muss; Tagesprüfung übersteht Neuladen; Echo-Stimmen, Boss-Einblendungen und Meldungen liegen nicht mehr über Fenstern."
 }

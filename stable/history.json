@@ -1,5 +1,13 @@
 [
   {
+    "version": "232.0.0",
+    "date": "2026-10-03",
+    "notes": "Kontrollpunkt und Pfadwahl zeigen jetzt klar, dass zuerst eine Verstärkung gewählt werden muss; Tagesprüfung übersteht Neuladen; Echo-Stimmen, Boss-Einblendungen und Meldungen liegen nicht mehr über Fenstern.",
+    "patch": "Elyria_Patch_V232.zip",
+    "setup": "Elyria_Setup_V232.exe",
+    "sha256": "83af050760778b646c31b94d10d1eb09546e06e1056bd8529bfea7f27eed04a2"
+  },
+  {
     "version": "231.0.0",
     "date": "2026-10-03",
     "notes": "Der Autoschuss schießt jetzt immer in Richtung Mauszeiger, unabhängig von der Laufrichtung. Ohne Maus zielt er weiter auf den nächsten Gegner.",
