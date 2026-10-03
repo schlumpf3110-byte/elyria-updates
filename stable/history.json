@@ -1,5 +1,13 @@
 [
   {
+    "version": "239.0.0",
+    "date": "2026-10-03",
+    "notes": "Fusion entfernt, schlichte Waffenleiste, kompakte Expeditionszentrale, Gefahrenstufen ersetzen die alte Schwierigkeit",
+    "patch": "Elyria_Patch_V239.zip",
+    "setup": "Elyria_Setup_V239.exe",
+    "sha256": "d50d3d7665b19967c43f9b7f53d97e0d6ec539ea9bb6fb82a538f354feee3628"
+  },
+  {
     "version": "238.0.0",
     "date": "2026-10-03",
     "notes": "Kartenpool aktualisiert, übersichtliche Runenschmiede mit Waffenvorschau, Kurzanleitung für neue Spieler",
