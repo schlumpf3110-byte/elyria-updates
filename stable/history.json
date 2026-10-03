@@ -1,5 +1,13 @@
 [
   {
+    "version": "242.0.0",
+    "date": "2026-10-03",
+    "notes": "Fünf neue Charaktere mit eigenen Runen und Lieblingswaffen",
+    "patch": "Elyria_Patch_V242.zip",
+    "setup": "Elyria_Setup_V242.exe",
+    "sha256": "9324566f1ed10134091cfebeffbeeaf6e84e57b39f76f286e73fca7a29184918"
+  },
+  {
     "version": "241.0.0",
     "date": "2026-10-03",
     "notes": "Beutel in der Halle aufgeräumt: keine leeren Ausrüstungsfelder mehr, Hinweis auf Laufausrüstung",

@@ -1,8 +1,8 @@
 {
   "product": "elyria-five-depths",
-  "version": "241.0.0",
-  "packageUrl": "Elyria_Patch_V241.zip",
-  "sha256": "b5ab53569c0a4cbd0b047a898ab2419f2a27d15ea1c90405bf699545d9ecae1b",
-  "size": 3280789,
-  "notes": "Beutel in der Halle aufgeräumt: keine leeren Ausrüstungsfelder mehr, Hinweis auf Laufausrüstung"
+  "version": "242.0.0",
+  "packageUrl": "Elyria_Patch_V242.zip",
+  "sha256": "9324566f1ed10134091cfebeffbeeaf6e84e57b39f76f286e73fca7a29184918",
+  "size": 3282900,
+  "notes": "Fünf neue Charaktere mit eigenen Runen und Lieblingswaffen"
 }
