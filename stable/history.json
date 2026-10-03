@@ -1,5 +1,13 @@
 [
   {
+    "version": "240.0.0",
+    "date": "2026-10-03",
+    "notes": "Kompakte Infoleiste im Dungeon, Details beim Halten von TAB",
+    "patch": "Elyria_Patch_V240.zip",
+    "setup": "Elyria_Setup_V240.exe",
+    "sha256": "a7f1f721046f802320a44795b01bc22f3437f0e5fabeca0244a62d08d546201e"
+  },
+  {
     "version": "239.0.0",
     "date": "2026-10-03",
     "notes": "Fusion entfernt, schlichte Waffenleiste, kompakte Expeditionszentrale, Gefahrenstufen ersetzen die alte Schwierigkeit",

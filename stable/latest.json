@@ -1,8 +1,8 @@
 {
   "product": "elyria-five-depths",
-  "version": "239.0.0",
-  "packageUrl": "Elyria_Patch_V239.zip",
-  "sha256": "d50d3d7665b19967c43f9b7f53d97e0d6ec539ea9bb6fb82a538f354feee3628",
-  "size": 3279262,
-  "notes": "Fusion entfernt, schlichte Waffenleiste, kompakte Expeditionszentrale, Gefahrenstufen ersetzen die alte Schwierigkeit"
+  "version": "240.0.0",
+  "packageUrl": "Elyria_Patch_V240.zip",
+  "sha256": "a7f1f721046f802320a44795b01bc22f3437f0e5fabeca0244a62d08d546201e",
+  "size": 3279958,
+  "notes": "Kompakte Infoleiste im Dungeon, Details beim Halten von TAB"
 }
