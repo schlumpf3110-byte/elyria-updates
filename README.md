@@ -3,14 +3,15 @@
 Dieses Repository verteilt die Spiel-Updates für den Elyria-Launcher. Der Launcher fragt beim Start
 `stable/latest.json` ab und bietet neue Versionen zum Einspielen an (Prüfsumme + Rücksicherung).
 
-## Aktuelle Version: 237.0.0
+## Aktuelle Version: 238.0.0
 
-**Neu installieren:** [Elyria_Setup_V237.exe](https://raw.githubusercontent.com/schlumpf3110-byte/elyria-updates/main/stable/Elyria_Setup_V237.exe)
+**Neu installieren:** [Elyria_Setup_V238.exe](https://raw.githubusercontent.com/schlumpf3110-byte/elyria-updates/main/stable/Elyria_Setup_V238.exe)
 
 > Der Installer ist nicht digital signiert. Windows SmartScreen: „Weitere Informationen“ → „Trotzdem ausführen“.
 
 ## Verlauf
 
+- **238.0.0** (2026-10-03): Kartenpool aktualisiert, übersichtliche Runenschmiede mit Waffenvorschau, Kurzanleitung für neue Spieler
 - **237.0.0** (2026-10-03): Waffenfamilien mit 2er/3er-Boni, Lieblingswaffen je Charakter (+20 % Schaden)
 - **236.0.0** (2026-10-03): Gefahrenstufen 0-5 je Charakter: stärkere Gegner, höherer Laufertrag, Fortschritt auf den Charakterkarten
 - **235.0.0** (2026-10-03): 10 Charaktere mit Stärken und Schwächen, 1 aus 5 Startwaffen, 16 Waffenarten, Ausrüstung pro Lauf, Laufertrag und Brens Werkbank
@@ -20,4 +21,3 @@ Dieses Repository verteilt die Spiel-Updates für den Elyria-Launcher. Der Launc
 - **231.0.0** (2026-10-03): Der Autoschuss schießt jetzt immer in Richtung Mauszeiger, unabhängig von der Laufrichtung. Ohne Maus zielt er weiter auf den nächsten Gegner.
 - **230.0.0** (2026-10-03): Die Liste „Deine Halle“ überdeckt den Trophäenschrank nicht mehr, und die Kampfimpuls-Anzeige erscheint nur noch in Expeditionen.
 - **229.0.0** (2026-10-02): Tagesprüfung mit sechs wechselnden Tagesregeln und täglicher Belohnung sowie der Kampf gegen Dagra hinter dem Siegel, sobald alle fünf Tiefen bezwungen sind – mit exotischer Waffe und der achten Strophe.
-- **228.0.0** (2026-10-02): Neues Bestiarium mit Wissensstufen und Bonusschaden je Gegnerart, 23 Erfolge mit Sonnenmark-Belohnung, schnellere Echo-Texte (Taste N), höchstens zwei neue Kreaturen pro Welle und ein freies Talentfenster.

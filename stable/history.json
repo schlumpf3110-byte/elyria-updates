@@ -1,5 +1,13 @@
 [
   {
+    "version": "238.0.0",
+    "date": "2026-10-03",
+    "notes": "Kartenpool aktualisiert, übersichtliche Runenschmiede mit Waffenvorschau, Kurzanleitung für neue Spieler",
+    "patch": "Elyria_Patch_V238.zip",
+    "setup": "Elyria_Setup_V238.exe",
+    "sha256": "c0b18ab46e44d3ab892d8e91e38d55241820527df579afe66e956515f4881702"
+  },
+  {
     "version": "237.0.0",
     "date": "2026-10-03",
     "notes": "Waffenfamilien mit 2er/3er-Boni, Lieblingswaffen je Charakter (+20 % Schaden)",
