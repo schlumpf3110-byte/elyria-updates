@@ -1,5 +1,13 @@
 [
   {
+    "version": "243.0.0",
+    "date": "2026-10-04",
+    "notes": "Kontrollpunkt nie mehr gesperrt, fünf neue Wächter, alle Wächter mit drei Phasen und starken Fähigkeiten",
+    "patch": "Elyria_Patch_V243.zip",
+    "setup": "Elyria_Setup_V243.exe",
+    "sha256": "6ee88e1714aa7a29dd16ae1d63b10414e3cd7735d7a326dc410dd7dcfe2f4b89"
+  },
+  {
     "version": "242.0.0",
     "date": "2026-10-03",
     "notes": "Fünf neue Charaktere mit eigenen Runen und Lieblingswaffen",
