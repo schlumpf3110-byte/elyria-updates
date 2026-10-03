@@ -1,8 +1,8 @@
 {
   "product": "elyria-five-depths",
-  "version": "232.0.0",
-  "packageUrl": "Elyria_Patch_V232.zip",
-  "sha256": "83af050760778b646c31b94d10d1eb09546e06e1056bd8529bfea7f27eed04a2",
-  "size": 3242469,
-  "notes": "Kontrollpunkt und Pfadwahl zeigen jetzt klar, dass zuerst eine Verstärkung gewählt werden muss; Tagesprüfung übersteht Neuladen; Echo-Stimmen, Boss-Einblendungen und Meldungen liegen nicht mehr über Fenstern."
+  "version": "233.0.0",
+  "packageUrl": "Elyria_Patch_V233.zip",
+  "sha256": "fdf5d9543fda3fb7a57f3862feadb40b204d3624a3fc774a1d2a3c2a2655cad5",
+  "size": 3247040,
+  "notes": "Exotische Sets je Tiefe mit Boni für 2, 3 und 5 Stücke sowie Waffenmeisterschaft für Klinge, Bogen und Stab bis Rang 20."
 }

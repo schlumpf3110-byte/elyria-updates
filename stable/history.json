@@ -1,5 +1,13 @@
 [
   {
+    "version": "233.0.0",
+    "date": "2026-10-03",
+    "notes": "Exotische Sets je Tiefe mit Boni für 2, 3 und 5 Stücke sowie Waffenmeisterschaft für Klinge, Bogen und Stab bis Rang 20.",
+    "patch": "Elyria_Patch_V233.zip",
+    "setup": "Elyria_Setup_V233.exe",
+    "sha256": "fdf5d9543fda3fb7a57f3862feadb40b204d3624a3fc774a1d2a3c2a2655cad5"
+  },
+  {
     "version": "232.0.0",
     "date": "2026-10-03",
     "notes": "Kontrollpunkt und Pfadwahl zeigen jetzt klar, dass zuerst eine Verstärkung gewählt werden muss; Tagesprüfung übersteht Neuladen; Echo-Stimmen, Boss-Einblendungen und Meldungen liegen nicht mehr über Fenstern.",
