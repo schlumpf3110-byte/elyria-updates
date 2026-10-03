@@ -1,8 +1,8 @@
 {
   "product": "elyria-five-depths",
-  "version": "235.0.0",
-  "packageUrl": "Elyria_Patch_V235.zip",
-  "sha256": "2f78a2e94abf8407e9543ed49d223b64bb8738999be32960c07fec7a36e90f9d",
-  "size": 3265335,
-  "notes": "10 Charaktere mit Stärken und Schwächen, 1 aus 5 Startwaffen, 16 Waffenarten, Ausrüstung pro Lauf, Laufertrag und Brens Werkbank"
+  "version": "236.0.0",
+  "packageUrl": "Elyria_Patch_V236.zip",
+  "sha256": "d7c282826b6efb18eb48b0bc927a881183c8e5ec05cffb33b801101b6d37fce7",
+  "size": 3268644,
+  "notes": "Gefahrenstufen 0-5 je Charakter: stärkere Gegner, höherer Laufertrag, Fortschritt auf den Charakterkarten"
 }

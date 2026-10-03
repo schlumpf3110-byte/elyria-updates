@@ -3,14 +3,15 @@
 Dieses Repository verteilt die Spiel-Updates für den Elyria-Launcher. Der Launcher fragt beim Start
 `stable/latest.json` ab und bietet neue Versionen zum Einspielen an (Prüfsumme + Rücksicherung).
 
-## Aktuelle Version: 235.0.0
+## Aktuelle Version: 236.0.0
 
-**Neu installieren:** [Elyria_Setup_V235.exe](https://raw.githubusercontent.com/schlumpf3110-byte/elyria-updates/main/stable/Elyria_Setup_V235.exe)
+**Neu installieren:** [Elyria_Setup_V236.exe](https://raw.githubusercontent.com/schlumpf3110-byte/elyria-updates/main/stable/Elyria_Setup_V236.exe)
 
 > Der Installer ist nicht digital signiert. Windows SmartScreen: „Weitere Informationen“ → „Trotzdem ausführen“.
 
 ## Verlauf
 
+- **236.0.0** (2026-10-03): Gefahrenstufen 0-5 je Charakter: stärkere Gegner, höherer Laufertrag, Fortschritt auf den Charakterkarten
 - **235.0.0** (2026-10-03): 10 Charaktere mit Stärken und Schwächen, 1 aus 5 Startwaffen, 16 Waffenarten, Ausrüstung pro Lauf, Laufertrag und Brens Werkbank
 - **234.0.0** (2026-10-03): Lagerkiste mit 40 Plätzen in der Halle und Echo-Meisterschaft für jede Echo-Fähigkeit. Behebt den Namensverlust von Dagras Splitter nach dem Neuladen.
 - **233.0.0** (2026-10-03): Exotische Sets je Tiefe mit Boni für 2, 3 und 5 Stücke sowie Waffenmeisterschaft für Klinge, Bogen und Stab bis Rang 20.
@@ -20,4 +21,3 @@ Dieses Repository verteilt die Spiel-Updates für den Elyria-Launcher. Der Launc
 - **229.0.0** (2026-10-02): Tagesprüfung mit sechs wechselnden Tagesregeln und täglicher Belohnung sowie der Kampf gegen Dagra hinter dem Siegel, sobald alle fünf Tiefen bezwungen sind – mit exotischer Waffe und der achten Strophe.
 - **228.0.0** (2026-10-02): Neues Bestiarium mit Wissensstufen und Bonusschaden je Gegnerart, 23 Erfolge mit Sonnenmark-Belohnung, schnellere Echo-Texte (Taste N), höchstens zwei neue Kreaturen pro Welle und ein freies Talentfenster.
 - **227.0.0** (2026-10-02): Story im Dungeon (Echos der Hüter, Nachklang und neue Strophen), fünf neue Gegner und eine Verzweiflungsphase für alle Wächter, Tiefentalente mit drei neuen Echo-Fähigkeiten sowie Grafik-Feinschliff in allen fünf Tiefen.
-- **226.0.0** (2026-10-02): Für den Endgegner gibt es jetzt genau ein exotisches Stück (neue Seltenheit, stärkere Werte, Endboss-Prägung), das sich direkt für den nächsten Lauf anlegen lässt. Der Launcher holt Updates ab jetzt automatisch von GitHub.
