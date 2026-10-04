@@ -1,5 +1,13 @@
 [
   {
+    "version": "244.0.0",
+    "date": "2026-10-04",
+    "notes": "Lebensfunken, Abgrundwächter ab Gefahr 3, vier neue Waffenarten, Familienrunen, neue Werkbank-Vorteile, Lauf-Rückblick, Charakter des Tages, klarerer Kontrollpunkt",
+    "patch": "Elyria_Patch_V244.zip",
+    "setup": "Elyria_Setup_V244.exe",
+    "sha256": "42141f387e3b8b708a275205cef5442c5f568c707cc0f5d087fc3f2cc1678885"
+  },
+  {
     "version": "243.0.0",
     "date": "2026-10-04",
     "notes": "Kontrollpunkt nie mehr gesperrt, fünf neue Wächter, alle Wächter mit drei Phasen und starken Fähigkeiten",

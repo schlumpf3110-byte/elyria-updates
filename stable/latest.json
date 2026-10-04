@@ -1,8 +1,8 @@
 {
   "product": "elyria-five-depths",
-  "version": "243.0.0",
-  "packageUrl": "Elyria_Patch_V243.zip",
-  "sha256": "6ee88e1714aa7a29dd16ae1d63b10414e3cd7735d7a326dc410dd7dcfe2f4b89",
-  "size": 3291124,
-  "notes": "Kontrollpunkt nie mehr gesperrt, fünf neue Wächter, alle Wächter mit drei Phasen und starken Fähigkeiten"
+  "version": "244.0.0",
+  "packageUrl": "Elyria_Patch_V244.zip",
+  "sha256": "42141f387e3b8b708a275205cef5442c5f568c707cc0f5d087fc3f2cc1678885",
+  "size": 3300879,
+  "notes": "Lebensfunken, Abgrundwächter ab Gefahr 3, vier neue Waffenarten, Familienrunen, neue Werkbank-Vorteile, Lauf-Rückblick, Charakter des Tages, klarerer Kontrollpunkt"
 }
